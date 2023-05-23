@@ -43,6 +43,8 @@ GET /product/all
 
 ### Find By ID
 
+Найти товар по ID
+
 ---
 
 Адрес
@@ -67,6 +69,8 @@ GET /product?id={id}
 
 
 ### Save
+
+Сохранить или создать товар
 
 ---
 
@@ -101,6 +105,8 @@ GET /product/save
 
 ### Login
 
+Авторизоваться
+
 ---
 
 Адрес
@@ -126,6 +132,8 @@ GET /user/login?nickname={nickname}&password={password}
 
 
 ### Reg
+
+Зарегистрироваться
 
 ---
 
